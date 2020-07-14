@@ -7,7 +7,7 @@
 - 🔭 I’m active OpenSource Developer
 - 🌱 I’m currently exploring programming world
 - 👯 I’m looking to collaborate on OpenSource Python projects
-- 💬 Ask me about python,linux
+- 💬 Ask me about anything [here](https://github.com/rizwansoaib/rizwansoaib/issues)
 - 📫 How to reach me: 
 - ⚡ Fun fact: I did diploma in Mechanical Engineering
 
