@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m active OpenSource Developer
-- 🌱 I’m currently exploring programming world
+- 🌱 I’m currently exploring more in programming world machine learning, Data Science, CyberSecuirty etc.
 - 👯 I’m looking to collaborate on OpenSource Python projects
 - 💬 Ask me about anything [here](https://github.com/rizwansoaib/rizwansoaib/issues)
 - 📫 How to reach me: **rizwan.178208@knit.ac.in**
