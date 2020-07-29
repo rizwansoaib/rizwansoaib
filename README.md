@@ -25,11 +25,9 @@
 
 
 
-<p align="center">
-    
-  <h1>⚡ Technologies</h1><br>
+<p align="center"> <h1>⚡ Technologies</h1><hr></p>
   
-  
+  <p align="center">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
