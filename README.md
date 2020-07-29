@@ -1,10 +1,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rizwansoaib.rizwansoaib)
 
-![rizwansoaib](https://github-readme-stats.vercel.app/api?username=rizwansoaib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=151515)
 
-  ![rizwansoaib](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555)
 
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansoaib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=151515">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+  
+  
 
 
 
