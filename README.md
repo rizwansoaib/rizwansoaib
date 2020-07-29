@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://dev.to/rizwansoain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rizwansoaib" height="100" width="50" /></a>
-<a href="https://linkedin.com/in/rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizwansoaib" height="50" width="50" /></a>
-<a href="https://medium.com/@rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rizwansoaib" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizwansoaib" height="30" width="50" /></a>
+<a href="https://medium.com/@rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rizwansoaib" height="30" width="50" /></a>
 </p>
   
