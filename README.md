@@ -25,7 +25,7 @@
 
 
 
-<p align="center"> <h1>⚡ Technologies</h1><hr></p>
+<p align="center"><h1 align="center">⚡ Technologies</h1></p>
   
   <p align="center">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
