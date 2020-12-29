@@ -1,7 +1,7 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=rizwansoaib.rizwansoaib)
+![VisitorCount](https://profile-counter.glitch.me/rizwansoaib/count.svg)
 
-
+  
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansoaib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=151515">
@@ -50,6 +50,3 @@
 
 
 
-![VisitorCount](https://profile-counter.glitch.me/rizwansoaib/count.svg)
-
-  
