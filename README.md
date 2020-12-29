@@ -47,4 +47,9 @@
 <a href="https://dev.to/rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rizwansoaib" height="100" width="50" /></a>
 <a href="https://medium.com/@rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rizwansoaib" height="30" width="50" /></a>
 </p>
+
+
+
+![VisitorCount](https://profile-counter.glitch.me/rizwansoaib/count.svg)
+
   
