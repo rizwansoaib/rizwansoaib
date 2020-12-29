@@ -1,7 +1,4 @@
 
-![VisitorCount](https://profile-counter.glitch.me/rizwansoaib/count.svg)
-
-  
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansoaib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=151515">
@@ -48,5 +45,10 @@
 <a href="https://medium.com/@rizwansoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rizwansoaib" height="30" width="50" /></a>
 </p>
 
+
+
+![VisitorCount](https://profile-counter.glitch.me/rizwansoaib/count.svg)
+
+  
 
 
