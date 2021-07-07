@@ -8,7 +8,10 @@
   
   
 
-## latest project MemePur view trending memes like comment and share @  https://memepur.in/
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+    
+## latest project MemePur  @  https://memepur.in/
 
 - 🔭 I’m active OpenSource Developer
 - 🌱 I’m currently exploring more in programming world machine learning, Data Science, CyberSecuirty etc.
@@ -18,6 +21,57 @@
 - ⚡ Fun fact: I did diploma in Mechanical Engineering
 
 
+    
+    
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://memepur.in/'>MemePur</a></td>
+      <td>Django Web Framework, AWS RDS, Celery, Cloudinary</td>
+      <td>View Trending Memes and upload and share with friends. viewer can like share and comments you will also get notification when someone will follow you or like , comment on your memes</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/rizwansoaib/HCL-Ai-Hackathon'>Sentiment Analysis (Hackathon)
+</a></td>
+      <td>Django,Python,Jupyter,Selenium,Html,Css</td>
+      <td>WhatsApp Chat Sentiment Analysis and Youtube Comment sentiment analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rizwansoaib/whatsapp-monitor">WhatsApp Online Tracker</a></td>
+      <td>Python,Django,Electron,Selenium,HTML,CSS,Javascript</td>
+      <td>Track Online status of your crush and get a notification on Desktop and Smartphone when Online.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/rizwansoaib/sublime-build-system'>Sublime Build System</a></td>
+      <td>shell script</td>
+      <td>Build and Run projects directly from Sublime Text editor 3 on Linux.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/rizwansoaib/Android-Library-Management'>Android Library Management</a></td>
+      <td>Php,MySQL,Java, Android Studio</td>
+      <td>Manage our institute Central Library with bar code scanner through an android Smartphone.
+Issue Book, Return Book and many more.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rizwansoaib/macosx">Custom Linux</a></td>
+      <td>CSS,Python,CMake,Shell</td>
+      <td>Customized Ubuntu 18.04 Looks like macOS X</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/rizwansoaib/changemac'>MAC Address Changer</a></td>
+      <td>Python,Shell</td>
+      <td>Change MAC address of Linux or Generate random MAC address and set it into your System.
+Bypass MAC filtering.</td>
+    </tr>
+  </tbody>
+</table>    
 
 
 
