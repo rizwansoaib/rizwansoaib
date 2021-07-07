@@ -8,7 +8,7 @@
   
   
 
-## latest project MemePur view trending memes like,comment and share @  https://memepur.in/
+## latest project MemePur view trending memes like comment and share @  https://memepur.in/
 
 - 🔭 I’m active OpenSource Developer
 - 🌱 I’m currently exploring more in programming world machine learning, Data Science, CyberSecuirty etc.
