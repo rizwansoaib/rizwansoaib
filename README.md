@@ -59,6 +59,11 @@
       <td>Manage our institute Central Library with bar code scanner through an android Smartphone.
 Issue Book, Return Book and many more.</td>
     </tr>
+      <tr>
+      <td><a href='https://github.com/rizwansoaib/face-attendence'>Face Attendence</a></td>
+      <td>Django, AWS S3, AWS Rekognition,HTML,CSS,Javascript</td>
+      <td>Attendance using Face recognition single image of class required and beautiful statical data with pie chart. Student can track their attendance.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/rizwansoaib/macosx">Custom Linux</a></td>
       <td>CSS,Python,CMake,Shell</td>
