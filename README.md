@@ -34,23 +34,23 @@
   <tbody>
     <tr>
       <td><a href='https://memepur.in/'>MemePur</a></td>
-      <td>Django Web Framework, AWS RDS, Celery, Cloudinary</td>
+      <td>Django Web Framework, AWS RDS, Celery, Cloudinary,HTML,CSS, Javascript</td>
       <td>View Trending Memes and upload and share with friends. viewer can like share and comments you will also get notification when someone will follow you or like , comment on your memes</td>
     </tr>
     <tr>
       <td><a href='https://github.com/rizwansoaib/HCL-Ai-Hackathon'>Sentiment Analysis (Hackathon)
 </a></td>
-      <td>Django,Python,Jupyter,Selenium,Html,Css</td>
+      <td>NLP,Sklearn,Django,Python,Selenium,Html,Css,Javascript</td>
       <td>WhatsApp Chat Sentiment Analysis and Youtube Comment sentiment analysis</td>
     </tr>
     <tr>
       <td><a href="https://github.com/rizwansoaib/whatsapp-monitor">WhatsApp Online Tracker</a></td>
-      <td>Python,Django,Electron,Selenium,HTML,CSS,Javascript</td>
+      <td>Python,Django Framework,Electron Framework,Selenium,HTML,CSS,Javascript</td>
       <td>Track Online status of your crush and get a notification on Desktop and Smartphone when Online.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/rizwansoaib/sublime-build-system'>Sublime Build System</a></td>
-      <td>shell script</td>
+      <td>Shell,Json</td>
       <td>Build and Run projects directly from Sublime Text editor 3 on Linux.</td>
     </tr>
     <tr>
