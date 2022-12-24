@@ -21,7 +21,7 @@
 - 🌱 I’m currently exploring more in programming world machine learning, Data Science, CyberSecuirty etc.
 - 👯 I’m looking to collaborate on OpenSource Python projects
 - 💬 Ask me about anything [here](https://github.com/rizwansoaib/rizwansoaib/issues)
-- 📫 How to reach me: **rizwan.178208@knit.ac.in**
+- 📫 How to reach me: **rizwansoaib@gmail.com**
 - ⚡ Fun fact: I did diploma in Mechanical Engineering
 
 
